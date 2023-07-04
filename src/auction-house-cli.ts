@@ -344,6 +344,7 @@ programCommand('sell')
       auctionHouse,
     );
   });
+  console.log('test');
 
 programCommand('withdraw_from_treasury')
   .option(
